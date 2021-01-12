@@ -46,5 +46,6 @@ class TablaAsignacion:
                 return "something went wrong"
 
 
-
 Tabla_cc  = TablaAsignacion()
+
+# Aún no está terminada
