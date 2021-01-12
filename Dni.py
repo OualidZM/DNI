@@ -1,7 +1,7 @@
 from Tabla import TablaAsignacion
 import inquirer
 class DNi:
-    
+     
     
     def __init__(self):
         self.tabla = TablaAsignacion
